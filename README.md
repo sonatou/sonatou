@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sonatou
 - 👀 I’m interested in games and development
-- 🌱 I’m currently learning tha basics of development
+- 🌱 I’m currently learning the basics of game development
 - 💞️ I’m looking to collaborate on anything new
 - 📫 Follow me on [ig](https://www.instagram.com/sonatou/)
 - 💼 My [linkedin](https://www.linkedin.com/in/sonato/)
